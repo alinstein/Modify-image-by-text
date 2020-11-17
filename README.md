@@ -1,7 +1,6 @@
 # Retrieve target image from composed image and text
 
 ### Retrieval Model
-![Results](https://github.com/alinstein/Modify-image-by-text/blob/master/diagram2.png)
 ![Results](https://github.com/alinstein/Modify-image-by-text/blob/master/diagram3.png)
 
 ### Generative Model
