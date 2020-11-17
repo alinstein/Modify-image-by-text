@@ -1,6 +1,6 @@
 # Retrieve target image from composed image and text
 
-![Results](https://github.com/alinstein/Modify-image-by-text/diagram.png)
+![Results](https://github.com/alinstein/Modify-image-by-text/blob/master/diagram.png)
 This project implements a deep learning neural network model to retrieve the target image from a given image and a text containing desired modifications in the input image.
 The text and the image are composed using the TIRG model, use this composed feature to retrieve the target image. An experimental study to generate the target image is also implemented
 using StackGAN. This project is implemented as part of course project for Deep Learning Course at University of Victoria.
