@@ -2,6 +2,7 @@
 
 ### Retrieval Model
 ![Results](https://github.com/alinstein/Modify-image-by-text/blob/master/diagram2.png)
+![Results](https://github.com/alinstein/Modify-image-by-text/blob/master/diagram3.png)
 
 ### Generative Model
 ![Results](https://github.com/alinstein/Modify-image-by-text/blob/master/diagram.png)
